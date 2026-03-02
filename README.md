@@ -1,28 +1,28 @@
 # Yonatan Guerrero Soriano
 
-**Biomatemático · Doctor en Educación en Tecnología · Desarrollador Web**
+**Biomathematician · Doctor of Education in Technology · Web Developer**
 
-Combino formación científica con desarrollo de software y tecnología educativa. Mi trabajo vive en la intersección entre matemáticas, inteligencia artificial y aprendizaje.
-
----
-
-## Formación
-
-| Grado | Área |
-|-------|------|
-| B.S. | Biomatemáticas — Biología Computacional, Bioestadística y Bioinformática |
-| M.Ed. | Educación en Matemáticas |
-| Ed.D. | Educación en Tecnología |
-
-**Disertación doctoral:**
-> *Estrategias del aprendizaje híbrido de las matemáticas usando la Inteligencia Artificial como recurso educativo*
+I combine scientific training with software development and educational technology. My work lives at the intersection of mathematics, artificial intelligence, and learning.
 
 ---
 
-## Proyectos
+## Education
 
-### Ministerio "La Gloria es del Señor"
-Plataforma web completa para un ministerio cristiano — diseño editorial refinado, sistema de foro con roles, autenticación Google, base de datos en tiempo real.
+| Degree | Field |
+|--------|-------|
+| B.S. | Biomathematics — Computational Biology, Biostatistics & Bioinformatics |
+| M.Ed. | Mathematics Education |
+| Ed.D. | Technology Education |
+
+**Doctoral dissertation:**
+> *Hybrid Learning Strategies in Mathematics Using Artificial Intelligence as an Educational Resource*
+
+---
+
+## Projects
+
+### Ministry "La Gloria es del Señor"
+Full-featured web platform for a Christian ministry — refined editorial design, forum system with user roles, Google authentication, real-time database.
 
 `HTML` `CSS` `JavaScript` `Firebase` `Firestore` `Firebase Auth`
 
@@ -33,18 +33,18 @@ Plataforma web completa para un ministerio cristiano — diseño editorial refin
 ```
 Frontend    →  HTML · CSS · JavaScript (ES Modules)
 Backend     →  Firebase (Auth · Firestore · Hosting)
-Diseño      →  Tipografía editorial · Sistemas de diseño cohesivos
-IA          →  Integración de herramientas AI en contextos educativos
+Design      →  Editorial typography · Cohesive design systems
+AI          →  Integration of AI tools in educational contexts
 ```
 
 ---
 
-## Intereses
+## Interests
 
-- Tecnología aplicada a la educación matemática
-- Aprendizaje híbrido e inteligencia artificial
-- Bioinformática y análisis computacional
-- Desarrollo web con propósito
+- Technology applied to mathematics education
+- Hybrid learning and artificial intelligence
+- Bioinformatics and computational analysis
+- Purpose-driven web development
 
 ---
 
