@@ -78,7 +78,7 @@ Real-time math competition app logic and sequence challenges with live Firebase 
 - Technology applied to mathematics education
 - Hybrid learning and artificial intelligence
 - Bioinformatics and computational analysis
-- Purpose-driven web development
+- Purpose driven web development
 
 ---
 
