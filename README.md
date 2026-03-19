@@ -62,12 +62,12 @@ I combine scientific training with software development and educational technolo
 ## Projects
 
 ### Ministry "La Gloria es del Señor"
-Full-featured web platform for a Christian ministry — refined editorial design, forum system with user roles, Google authentication, real-time database.
+Full-featured web platform for a Christian ministry refined editorial design, forum system with user roles, Google authentication, real-time database.
 
 `HTML` `CSS` `JavaScript` `Firebase` `Firestore` `Firebase Auth`
 
 ### Math Competition
-Real-time math competition app — logic and sequence challenges with live Firebase backend.
+Real-time math competition app logic and sequence challenges with live Firebase backend.
 
 `HTML` `CSS` `JavaScript` `Firebase`
 
