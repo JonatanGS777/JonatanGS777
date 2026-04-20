@@ -44,8 +44,8 @@ I combine scientific training with software development and educational technolo
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api?username=JonatanGS777&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api?username=JonatanGS777&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" height="165" />
+    srcset="https://github-readme-stats.vercel.app/api?username=JonatanGS777&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JonatanGS777&show_icons=true&theme=default&hide_border=true&count_private=true" height="165" />
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)"
