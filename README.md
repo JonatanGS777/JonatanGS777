@@ -30,6 +30,8 @@ I combine scientific training with software development and educational technolo
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -40,14 +42,26 @@ I combine scientific training with software development and educational technolo
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=JonatanGS777&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonatanGS777&layout=compact&theme=github_dark&hide_border=true" height="165" />
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api?username=JonatanGS777&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JonatanGS777&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" height="165" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JonatanGS777&layout=compact&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonatanGS777&layout=compact&theme=default&hide_border=true" height="165" />
+</picture>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=JonatanGS777&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://streak-stats.demolab.com?user=JonatanGS777&theme=github-dark-blue&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=JonatanGS777&theme=default&hide_border=true" />
+</picture>
 
 </div>
 
@@ -55,21 +69,30 @@ I combine scientific training with software development and educational technolo
 
 ## Activity
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JonatanGS777&theme=github-compact&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=JonatanGS777&theme=github-compact&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JonatanGS777&theme=minimal&hide_border=true&area=true" width="100%" />
+</picture>
 
 ---
 
 ## Projects
 
-### Ministry "La Gloria es del Señor"
-Full-featured web platform for a Christian ministry refined editorial design, forum system with user roles, Google authentication, real-time database.
+### 🤖 MathMind — AI Math Tutor
+AI-powered math chatbot that solves problems step by step, renders formulas with LaTeX and adapts explanations to the student's level. Built with React, Claude AI and KaTeX.
+
+`React` `TypeScript` `Claude AI` `KaTeX` `Tailwind CSS` `Vite`
+
+### 🌐 Digital Mathematics
+Full mathematics education platform with real-time competitions, virtual lab, STEM modules and bilingual support (ES/EN). Live at [digitalmathematics.org](https://digitalmathematics.org).
+
+`HTML` `CSS` `JavaScript` `Supabase` `Socket.IO` `Vercel`
+
+### ⛪ Ministry "La Gloria es del Señor"
+Full-featured web platform for a Christian ministry with editorial design, forum system with user roles, Google authentication and real-time database.
 
 `HTML` `CSS` `JavaScript` `Firebase` `Firestore` `Firebase Auth`
-
-### Math Competition
-Real-time math competition app logic and sequence challenges with live Firebase backend.
-
-`HTML` `CSS` `JavaScript` `Firebase`
 
 ---
 
@@ -88,10 +111,16 @@ Real-time math competition app logic and sequence challenges with live Firebase 
   <a href="https://www.linkedin.com/in/yonatan-guerrero-soriano-6b3729136">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://digitalmathematics.org">
+    <img src="https://img.shields.io/badge/Website-digitalmathematics.org-4A90D9?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/JonatanGS777/JonatanGS777/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JonatanGS777/JonatanGS777/output/github-contribution-grid-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/JonatanGS777/JonatanGS777/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  </picture>
 </div>
